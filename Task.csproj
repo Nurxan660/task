@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    </PropertyGroup>
+    <Target Name="net" BeforeTargets="BeforeBuild" KeepDuplicateOutputs="true">
+        <WriteLinesToFile File="Task3.cs" Overwrite="true" Encoding="Unicode" Lines="$([System.IO.File]::ReadAllText('Task.java').Replace('main','Main').Replace('System.out.println','System.Console.WriteLine').Replace('String','string'))" />
+        <ItemGroup>
+            <Compile Include="Task3.cs" />
+        </ItemGroup>
+    </Target>
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.AssemblyInfo.cs
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\nurxa\MyProjects\Task_3\src\bin\Debug\net8.0\Task.exe
+C:\Users\nurxa\MyProjects\Task_3\src\bin\Debug\net8.0\Task.deps.json
+C:\Users\nurxa\MyProjects\Task_3\src\bin\Debug\net8.0\Task.runtimeconfig.json
+C:\Users\nurxa\MyProjects\Task_3\src\bin\Debug\net8.0\Task.dll
+C:\Users\nurxa\MyProjects\Task_3\src\bin\Debug\net8.0\Task.pdb
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.dll
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\refint\Task.dll
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.pdb
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\Task.genruntimeconfig.cache
+C:\Users\nurxa\MyProjects\Task_3\src\obj\Debug\net8.0\ref\Task.dll
